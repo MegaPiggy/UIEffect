@@ -1,18 +1,17 @@
 {
-  "name": "com.coffee.uieffect",
-	"displayName": "UIEffect",
-	"description": " UIEffect is an effect component for uGUI element in Unity.\nLet's decorate your UI with effects!",
+  "name": "com.coffee.ui-effect",
+  "displayName": "UI Effect",
+  "description": "UI Effect is an effect component for uGUI element in Unity.\nLet's decorate your UI with effects!",
   "version": "3.2.0",
-	"unity": "5.5",
+  "unity": "2018.3",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mob-sakai/UIEffect.git"
   },
   "src": "Assets/Coffee/UIExtensions/UIEffect",
-	"author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
+  "author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
   "editorOnly": false,
   "upmSupport": false,
-	"dependencies": {
-	}
+  "dependencies": {}
 }
